@@ -5,3 +5,4 @@ home page is displayed.
 
 Search for the filters
 
+Products displayed
