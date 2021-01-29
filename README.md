@@ -3,4 +3,5 @@ It is a popular online shopping website
 
 home page is displayed.
 
-Search for filters
+Search for the filters
+
