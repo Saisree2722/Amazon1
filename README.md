@@ -8,3 +8,5 @@ Search for the filters
 Products displayed
 
 merge 
+
+Check merge3
