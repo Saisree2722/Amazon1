@@ -2,3 +2,5 @@
 It is a popular online shopping website
 
 home page is displayed.
+
+Check merge
